@@ -1,6 +1,6 @@
 # 🎥 yutube-videos
 
-This repository contains source code for all the videos published on my YouTube channel [**Code to Career**](https://www.youtube.com/@yourchannel).
+This repository contains source code for all the videos published on my YouTube channel [**Code to Career**](https://www.youtube.com/@Code2Career-v9m).
 
 Each video has its own folder and may contain:
 
